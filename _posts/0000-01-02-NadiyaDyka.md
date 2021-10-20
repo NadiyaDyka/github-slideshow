@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Never edit file on directly GitHub!" Newere mind that robot advice to do this
 
 ---
 
